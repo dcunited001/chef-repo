@@ -1,5 +1,11 @@
-Overview
-========
+Other Cookbooks
+---------------
+
+Need github:
+- http://community.opscode.com/cookbooks/stunnel
+
+Opscode Docs
+============
 
 Every Chef installation needs a Chef Repository. This is the place where cookbooks, roles, config files and other artifacts for managing systems with Chef will live. We strongly recommend storing this repository in a version control system such as Git and treat it like source code.
 
