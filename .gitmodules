@@ -1,0 +1,141 @@
+[submodule "cookbooks/chef-reporting"]
+	path = cookbooks/chef-reporting
+	url = git@github.com:opscode-cookbooks/chef-reporting
+[submodule "cookbooks/apache2"]
+	path = cookbooks/apache2
+	url = git@github.com:opscode-cookbooks/apache2
+[submodule "cookbooks/ark"]
+	path = cookbooks/ark
+	url = git@github.com:opscode-cookbooks/ark
+[submodule "cookbooks/rabbitmq"]
+	path = cookbooks/rabbitmq
+	url = git@github.com:opscode-cookbooks/rabbitmq
+[submodule "cookbooks/emacs"]
+	path = cookbooks/emacs
+	url = git@github.com:opscode-cookbooks/emacs
+[submodule "cookbooks/build-essential"]
+	path = cookbooks/build-essential
+	url = git@github.com:opscode-cookbooks/build-essential
+[submodule "cookbooks/jenkins"]
+	path = cookbooks/jenkins
+	url = git@github.com:opscode-cookbooks/jenkins
+[submodule "cookbooks/postgresql"]
+	path = cookbooks/postgresql
+	url = git@github.com:opscode-cookbooks/postgresql
+[submodule "cookbooks/nginx"]
+	path = cookbooks/nginx
+	url = git@github.com:opscode-cookbooks/nginx
+[submodule "cookbooks/openssl"]
+	path = cookbooks/openssl
+	url = git@github.com:opscode-cookbooks/openssl
+[submodule "cookbooks/haproxy"]
+	path = cookbooks/haproxy
+	url = git@github.com:opscode-cookbooks/haproxy
+[submodule "cookbooks/apt"]
+	path = cookbooks/apt
+	url = git@github.com:opscode-cookbooks/apt
+[submodule "cookbooks/nagios"]
+	path = cookbooks/nagios
+	url = git@github.com:opscode-cookbooks/nagios
+[submodule "cookbooks/git"]
+	path = cookbooks/git
+	url = git@github.com:opscode-cookbooks/git
+[submodule "cookbooks/pdns"]
+	path = cookbooks/pdns
+	url = git@github.com:opscode-cookbooks/pdns
+[submodule "cookbooks/pacman"]
+	path = cookbooks/pacman
+	url = git@github.com:opscode-cookbooks/pacman
+[submodule "cookbooks/ant"]
+	path = cookbooks/ant
+	url = git@github.com:opscode-cookbooks/ant
+[submodule "cookbooks/ohai"]
+	path = cookbooks/ohai
+	url = git@github.com:opscode-cookbooks/ohai
+[submodule "cookbooks/ucspi-tcp"]
+	path = cookbooks/ucspi-tcp
+	url = git@github.com:opscode-cookbooks/ucspi-tcp
+[submodule "cookbooks/aws"]
+	path = cookbooks/aws
+	url = git@github.com:opscode-cookbooks/aws
+[submodule "cookbooks/ntp"]
+	path = cookbooks/ntp
+	url = git@github.com:opscode-cookbooks/ntp
+[submodule "cookbooks/varnish"]
+	path = cookbooks/varnish
+	url = git@github.com:opscode-cookbooks/varnish
+[submodule "cookbooks/openldap"]
+	path = cookbooks/openldap
+	url = git@github.com:opscode-cookbooks/openldap
+[submodule "cookbooks/squid"]
+	path = cookbooks/squid
+	url = git@github.com:opscode-cookbooks/squid
+[submodule "cookbooks/tomcat"]
+	path = cookbooks/tomcat
+	url = git@github.com:opscode-cookbooks/tomcat
+[submodule "cookbooks/memcached"]
+	path = cookbooks/memcached
+	url = git@github.com:opscode-cookbooks/memcached
+[submodule "cookbooks/pxe_dust"]
+	path = cookbooks/pxe_dust
+	url = git@github.com:opscode-cookbooks/pxe_dust
+[submodule "cookbooks/java"]
+	path = cookbooks/java
+	url = git@github.com:opscode-cookbooks/java
+[submodule "cookbooks/sudo"]
+	path = cookbooks/sudo
+	url = git@github.com:opscode-cookbooks/sudo
+[submodule "cookbooks/newrelic"]
+	path = cookbooks/newrelic
+	url = git@github.com:cookbooks/newrelic
+[submodule "cookbooks/redis"]
+	path = cookbooks/redis
+	url = git@github.com:cookbooks/redis
+[submodule "cookbooks/runit"]
+	path = cookbooks/runit
+	url = git@github.com:cookbooks/runit
+[submodule "cookbooks/monit"]
+	path = cookbooks/monit
+	url = git@github.com:cookbooks/monit
+[submodule "cookbooks/god"]
+	path = cookbooks/god
+	url = git@github.com:cookbooks/god
+[submodule "cookbooks/network_interfaces"]
+	path = cookbooks/network_interfaces
+	url = git@github.com:Youscribe/network_interfaces-cookbook
+[submodule "cookbooks/nodejs"]
+	path = cookbooks/nodejs
+	url = git@github.com:mdxp/nodejs-cookbook
+[submodule "cookbooks/zabbix"]
+	path = cookbooks/zabbix
+	url = git@github.com:laradji/zabbix
+[submodule "cookbooks/collectd"]
+	path = cookbooks/collectd
+	url = git@github.com:coderanger/chef-collectd
+[submodule "cookbooks/monitor"]
+	path = cookbooks/monitor
+	url = git@github.com:portertech/chef-monitor
+[submodule "cookbooks/newrelic_monitoring"]
+	path = cookbooks/newrelic_monitoring
+	url = git@github.com:8thBridge/chef-newrelic-monitoring
+[submodule "cookbooks/xymon"]
+	path = cookbooks/xymon
+	url = git@github.com:realityforge/chef-xymon
+[submodule "cookbooks/librato_metrics"]
+	path = cookbooks/librato_metrics
+	url = git@github.com:portertech/chef-librato-metrics
+[submodule "cookbooks/snmp"]
+	path = cookbooks/snmp
+	url = git@github.com:atomic-penguin/cookbook-snmp
+[submodule "cookbooks/sensu"]
+	path = cookbooks/sensu
+	url = git@github.com:sensu/sensu-chef
+[submodule "cookbooks/udev"]
+	path = cookbooks/udev
+	url = git@github.com:mattray/udev
+[submodule "cookbooks/snort"]
+	path = cookbooks/snort
+	url = git@github.com:opscode-cookbooks/snort
+[submodule "cookbooks/hosts-awareness"]
+	path = cookbooks/hosts-awareness
+	url = git@github.com:kohder/chef-hosts-awareness
